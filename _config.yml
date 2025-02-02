@@ -1,6 +1,6 @@
 # The Site Configuration
 
-# Import the theme
+# Import the theme 
 theme: jekyll-theme-chirpy
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
@@ -126,7 +126,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "https://docs.kinin.web.id"
 
 # ------------ The following options are not recommended to be modified ------------------
 
